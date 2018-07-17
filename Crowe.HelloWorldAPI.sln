@@ -1,0 +1,47 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crowe.HelloWorldAPI", "Crowe.HelloWorldAPI\Crowe.HelloWorldAPI.csproj", "{7EBE0268-FE2E-4755-BF85-514D7D3F03DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crowe.API.ServiceLayer", "Crowe.API.ServiceLayer\Crowe.API.ServiceLayer.csproj", "{1B62DF3E-68A5-49DB-87F3-21DACFA1CB30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crowe.API.DataLayer", "Crowe.API.DataLayer\Crowe.API.DataLayer.csproj", "{F67AF84F-4E93-478A-83A5-700EABEDED83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crowe.API.UnitTests", "Crowe.API.UnitTests\Crowe.API.UnitTests.csproj", "{C78D99D3-A992-49B3-B1C1-CB63D86839B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crowe.API.Common", "Crowe.API.Common\Crowe.API.Common.csproj", "{9D179F7F-A9BC-4C6B-88AF-37DC3B6711B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crowe.HelloWorld.ClientConsole", "Crowe.HelloWorld.ClientConsole\Crowe.HelloWorld.ClientConsole.csproj", "{1CC94E24-9C96-4416-915E-EB4C6ABE347E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EBE0268-FE2E-4755-BF85-514D7D3F03DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EBE0268-FE2E-4755-BF85-514D7D3F03DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EBE0268-FE2E-4755-BF85-514D7D3F03DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EBE0268-FE2E-4755-BF85-514D7D3F03DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B62DF3E-68A5-49DB-87F3-21DACFA1CB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B62DF3E-68A5-49DB-87F3-21DACFA1CB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B62DF3E-68A5-49DB-87F3-21DACFA1CB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B62DF3E-68A5-49DB-87F3-21DACFA1CB30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F67AF84F-4E93-478A-83A5-700EABEDED83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F67AF84F-4E93-478A-83A5-700EABEDED83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F67AF84F-4E93-478A-83A5-700EABEDED83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F67AF84F-4E93-478A-83A5-700EABEDED83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C78D99D3-A992-49B3-B1C1-CB63D86839B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C78D99D3-A992-49B3-B1C1-CB63D86839B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C78D99D3-A992-49B3-B1C1-CB63D86839B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C78D99D3-A992-49B3-B1C1-CB63D86839B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D179F7F-A9BC-4C6B-88AF-37DC3B6711B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D179F7F-A9BC-4C6B-88AF-37DC3B6711B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D179F7F-A9BC-4C6B-88AF-37DC3B6711B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D179F7F-A9BC-4C6B-88AF-37DC3B6711B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1CC94E24-9C96-4416-915E-EB4C6ABE347E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1CC94E24-9C96-4416-915E-EB4C6ABE347E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1CC94E24-9C96-4416-915E-EB4C6ABE347E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1CC94E24-9C96-4416-915E-EB4C6ABE347E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

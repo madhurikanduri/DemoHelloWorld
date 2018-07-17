@@ -1,0 +1,9 @@
+/Users/venukanduri/Documents/Madhuri-Test/Crowe Tests/Crowe.HelloWorldAPI/Crowe.API.UnitTests/bin/Debug/netcoreapp2.1/Crowe.API.UnitTests.deps.json
+/Users/venukanduri/Documents/Madhuri-Test/Crowe Tests/Crowe.HelloWorldAPI/Crowe.API.UnitTests/bin/Debug/netcoreapp2.1/Crowe.API.UnitTests.dll
+/Users/venukanduri/Documents/Madhuri-Test/Crowe Tests/Crowe.HelloWorldAPI/Crowe.API.UnitTests/bin/Debug/netcoreapp2.1/Crowe.API.UnitTests.pdb
+/Users/venukanduri/Documents/Madhuri-Test/Crowe Tests/Crowe.HelloWorldAPI/Crowe.API.UnitTests/obj/Debug/netcoreapp2.1/Crowe.API.UnitTests.csproj.CoreCompileInputs.cache
+/Users/venukanduri/Documents/Madhuri-Test/Crowe Tests/Crowe.HelloWorldAPI/Crowe.API.UnitTests/obj/Debug/netcoreapp2.1/Crowe.API.UnitTests.AssemblyInfoInputs.cache
+/Users/venukanduri/Documents/Madhuri-Test/Crowe Tests/Crowe.HelloWorldAPI/Crowe.API.UnitTests/obj/Debug/netcoreapp2.1/Crowe.API.UnitTests.AssemblyInfo.cs
+/Users/venukanduri/Documents/Madhuri-Test/Crowe Tests/Crowe.HelloWorldAPI/Crowe.API.UnitTests/obj/Debug/netcoreapp2.1/Crowe.API.UnitTests.dll
+/Users/venukanduri/Documents/Madhuri-Test/Crowe Tests/Crowe.HelloWorldAPI/Crowe.API.UnitTests/obj/Debug/netcoreapp2.1/Crowe.API.UnitTests.pdb
+/Users/venukanduri/Documents/Madhuri-Test/Crowe Tests/Crowe.HelloWorldAPI/Crowe.API.UnitTests/obj/Debug/netcoreapp2.1/Crowe.API.UnitTests.csprojResolveAssemblyReference.cache
